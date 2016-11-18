@@ -2,28 +2,28 @@
 
 ## Pouvez-vous nous présenter [Yanport](https://www.yanport.com) ?
 
-Yanport est née d'une idée simple : offrir aux agents immobiliers les meilleurs outils numériques pour augmenter leur valeur ajoutée.
-Aujourd'hui, de nombreuses startups misent sur l’uberisation du marché et ne croient plus en l’avenir des agents immobiliers. Nous faisons le pari inverse ! Les agents vont revenir au centre du jeu mais pas sous n'importe quelle condition : ils vont devoir convaincre les particuliers qu'ils peuvent avoir une énorme valeur ajoutée lors de l'achat / vente d'un bien. Notre objectif est les y aider !
+Yanport est née d'une idée simple : offrir aux agents immobiliers les meilleurs outils numériques pour augmenter leur valeur ajoutée.
+Aujourd'hui, de nombreuses startups misent sur l’uberisation du marché et ne croient plus en l’avenir des professionnels. Nous faisons le pari inverse ! Les agents vont revenir au centre du jeu à condition de prouver aux particuliers qu'ils apportent une valeur ajoutée incontournable lors de l'achat / vente d'un bien. Et notre objectif est les y aider !
 
 ## Quels services proposez-vous aux agents immobiliers ?
 
-Nous proposons aujourd'hui 4 grands services :
+Nous proposons aujourd'hui un ensemble de services autour du mandat :
 
- * Un outil de pige simple, réactif et très efficace : [Adbox](https://www.yanport.com/services/prospection) ;
- * Un outil pour transformer les visites en mandats de qualité grâce à notre [dossier d'estimation](https://www.yanport.com/services/etude-estimation) qui vient appuyer le discours de l'agent ;
- * Un outil de valorisation du portefeuille acquéreur grâce au moteur de recherche le plus complet du marché et nos alertes très précises ;
- * Un outil pour que son mandat reste toujours au meilleur prix grâce à un [outil de veille concurrentielle](https://www.yanport.com/services/veille-concurrentielle) qui permet de trouver en un coup d'oeil ses concurrents (pro et particulier) et d'être alerté de leurs baisses de prix ;
- * Enfin, Yanport c'est aussi un outil de suivi de vos publications, en un clic vous vérifiez que vos annonces sont bien multidiffusées.
+ * Traiter sa pige simplement et efficacement avec [Adbox](https://www.yanport.com/services/prospection)
+ * Réaliser un [dossier d'estimation](https://www.yanport.com/services/etude-estimation) en quelques clics afin de remettre au vendeur un document qui aidera l'agent à justifier son estimation ;
+ * Détecter en un coup d'oeil ses concurrents sur ses mandats simples et être alerté de leurs baisses de prix en temps réel. C'est la garantie pour l’agent immobilier d’avoir toujours ses mandats simples au meilleur prix ;
+ * Traiter ses “Mandats de recherche” grâce à notre moteur de recherche le plus complet du marché et nos alertes très précises ;
+ * Suivre ses publications sur les portails immobiliers : en un clic vous vérifiez que vos annonces sont bien multidiffusées.
 
 ## Qu’apporte de plus qu’un logiciel de pige classique votre solution ?
 
-La pige n'est qu'une petite partie de notre application ! Nous accompagnons l'agent immobilier de la recherche de mandat jusqu'à la vente : Adbox pour la pige, notre dossier d'estimation pour obtenir un mandat au bon prix et le suivi de ses concurrents pour augmenter ses chances de ventes !
+La pige n'est qu'une petite partie de notre application ! Nous traitons toutes les actions autour du mandat et sommes donc le complément idéal et attendu du logiciel de transaction utilisé par l’agent immobilier. 
 
-Enfin, nous accompagnons tous les jours nos clients avec un support ultra réactif et l'organisation régulière de webinars pour constamment faire progresser nos utilisateurs et avoir des retours de leur part. Nous souhaitons également faire évoluer rapidement l'application en fonction de nos besoins clients et je crois que ce n'est pas trop le cas pour les logiciels de pige traditionnels :)
+Enfin, nous accompagnons tous les jours nos clients avec un support réactif et l'organisation régulière de webinars pour constamment faire progresser nos utilisateurs et avoir des retours de leur part. Notre application est en constante évolution à partir des retours de nos clients.
 
 ## Comment est structurée votre équipe ? Où sont situés vos locaux ?
 
-Nous sommes une petite équipe de 5 personnes : 2 personnes coté technique, 2 personnes coté produit / marketing et 1 commercial situé à Levallois-Perret (92300). Nous faisons en sorte que tout le monde soit proche des clients, toujours à leur écoute pour faire évoluer l'application rapidement et de manière la plus pertinent possible.
+Nous sommes une petite équipe de 5 personnes : 2 personnes coté technique, 2 personnes coté produit / marketing et 1 commercial. Nos bureaux sont situé à Levallois-Perret (92300).  Nous faisons en sorte que tout le monde soit proche des clients, toujours à leur écoute pour faire évoluer l'application rapidement et de manière la plus pertinente possible.
 
 ## Quels sont vos axes de développement à venir ?
 

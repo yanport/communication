@@ -19,8 +19,8 @@ Notre outil de prospection Adbox facilite et rend agréable la pige immobilière
 Enfin, notre service de veille concurrentielle permet aux agents de détecter les mandats de leurs concurrents et de surveiller les prix en temps réel. 
 
 ## Quel est votre modèle économique ?
-Notre abonnement est fixé à 49 € HT par mois pour les agences avec un accès pour 3 utilisateurs, ou 29 € pour les professionnels indépendants – sans durée d’engagement.
-Aujourd’hui, nous avons 250 clients, principalement des agences et des mandataires -  et 1000 utilisateurs qui se connectent tous les mois.
+Notre abonnement est fixé à 49 € HT par mois pour les agences avec un accès pour 3 utilisateurs – sans durée d’engagement.
+Aujourd’hui, nous avons 250 clients, principalement des agences -  et 1000 utilisateurs qui se connectent tous les mois.
 Notre objectif est de doubler d’ici l’été prochain.
 Nous sommes actuellement négociation avec des réseaux.
 Nos chantiers pour 2017 : intégrer davantage de données sur la plateforme, notamment celles du marché des transactions réelles, et monter en puissance du le plan de la communication et du marketing.

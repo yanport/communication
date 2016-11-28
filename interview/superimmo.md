@@ -2,8 +2,8 @@
 
 ## Pouvez-vous nous présenter [Yanport](https://www.yanport.com) ?
 
-Yanport est née d'une idée simple : offrir aux agents immobiliers les meilleurs outils numériques pour augmenter leur valeur ajoutée.
-Aujourd'hui, de nombreuses startups misent sur l’uberisation du marché et ne croient plus en l’avenir des professionnels. Nous faisons le pari inverse ! Les agents vont revenir au centre du jeu à condition de prouver aux particuliers qu'ils apportent une valeur ajoutée incontournable lors de l'achat / vente d'un bien. Et notre objectif est les y aider !
+[Yanport](https://www.yanport.com) est née d'une idée simple : offrir aux agents immobiliers les meilleurs outils numériques pour augmenter leur valeur ajoutée.
+Aujourd'hui, de nombreuses startups misent sur l’uberisation du marché et ne croient plus en l’avenir des professionnels. Nous faisons le pari inverse ! Les agents vont revenir au centre du jeu à condition de prouver aux particuliers qu'ils apportent une valeur ajoutée incontournable lors de l'achat/vente d'un bien. Yanport est là pour les aider !
 
 ## Quels services proposez-vous aux agents immobiliers ?
 
@@ -11,7 +11,7 @@ Nous proposons aujourd'hui un ensemble de services autour du mandat :
 
  * Traiter sa pige simplement et efficacement avec [Adbox](https://www.yanport.com/services/prospection)
  * Réaliser un [dossier d'estimation](https://www.yanport.com/services/etude-estimation) en quelques clics afin de remettre au vendeur un document qui aidera l'agent à justifier son estimation ;
- * Détecter en un coup d'oeil ses concurrents sur ses mandats simples et être alerté de leurs baisses de prix en temps réel. C'est la garantie pour l’agent immobilier d’avoir toujours ses mandats simples au meilleur prix ;
+ * [Détecter en un coup d'oeil ses concurrents](https://www.yanport.com/services/veille-concurrentielle) sur ses mandats simples et être alerté de leurs baisses de prix en temps réel. C'est la garantie pour l’agent immobilier d’avoir toujours ses mandats simples au meilleur prix ;
  * Traiter ses “Mandats de recherche” grâce à notre moteur de recherche le plus complet du marché et nos alertes très précises ;
  * Suivre ses publications sur les portails immobiliers : en un clic vous vérifiez que vos annonces sont bien multidiffusées.
 
@@ -31,6 +31,6 @@ Notre prochaine évolution est une refonte du « dashboard » et elle arrive d'i
 
 Nous enchaînons ensuite avec l'ajout de fonctionnalités collaboratives pour faciliter les échanges au sein d'une même équipe. Enfin, nous avons prévu d'intégrer les données de transactions de nos clients tout en respectant le besoin de confidentialité de ce type de données : notre premier objectif est de permettre d'enrichir notre dossier d'estimation et le deuxième est le partage de ces données entre les professionnels qui le souhaitent.
 
-Nous n'allons pas non arrêter là bien sûr, ce sera un plaisir de vous en reparler d'ici quelques mois :)
+Nous n'allons pas nous arrêter là bien sûr, ce sera un plaisir de vous en reparler d'ici quelques mois !
 
 

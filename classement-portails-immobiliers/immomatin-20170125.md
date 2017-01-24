@@ -36,6 +36,7 @@ la start-up offre une vision quasi-exhaustive, par département, du poids des si
 | 16          | Propriétés de France | 17 599            |
 | 17          | Belles Demeures      | 16 718            |
 
+![Carte du premier portail immobilier par département](https://github.com/yanport/communication/raw/master/classement-portails-immobiliers/carte-20170125.png)
 
 ## Superimmo monte en puissance
 

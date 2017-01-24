@@ -2,7 +2,7 @@
 
 **Les portails d’annonces font souvent l’objet de classements.
 Plutôt que de marcher sur les plates-bandes de Médiamétrie et de comparer les sites via le prisme de l’audience,
-Yanport s’est intéressé à leur volume d’annonces. En compilant les données de 17 portails immobiliers, la start-up,
+[Yanport](https://www.yanport.com) s’est intéressé à leur volume d’annonces. En compilant les données de 17 portails immobiliers, la start-up,
 qui permet aux agents de surveiller les mandats de leurs concurrents, met en évidence la progression de certains outsiders.
 Décryptage.**
 
@@ -39,7 +39,7 @@ la start-up offre une vision quasi-exhaustive, par département, du poids des si
 
 ## Superimmo monte en puissance
 
-Encore peu connu des professionnels de l’immobilier, Superimmo.com occupe la première place du classement,
+Moins connu que les portails historiques, Superimmo.com occupe la première place du classement,
 avec un compteur de 727 831 annonces de biens. Une surprise qui s’explique par deux facteurs, selon François Massot,
 co-fondateur de Yanport. "Sur Superimmo, non seulement la diffusion des annonces est gratuite,
 mais l’équipe a opté pour une approche individualisée, et non de masse, des professionnels de l’immobilier",
